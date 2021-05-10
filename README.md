@@ -41,8 +41,6 @@ def f():
    s = "Look for  Python Section"
    print(s)
 
-
-# Global Scope
 s = "Python is great!"
 f()
 print(s)
